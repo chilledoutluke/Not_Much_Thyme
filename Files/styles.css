@@ -248,6 +248,8 @@
     text-align: center;
     text-decoration: none;
     transition: opacity 0.5s ease;
+    font-weight: 700;
+    text-transform: uppercase;
   }
   
   .button:hover {
