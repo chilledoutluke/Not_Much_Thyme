@@ -354,6 +354,8 @@
   .recipe-info-item {
     font-size: 16px;
     margin-bottom: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
   }
   
   .recipe-preview {
