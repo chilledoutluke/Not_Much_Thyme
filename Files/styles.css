@@ -52,7 +52,7 @@
     font-family: 'Lato', Helvetica, sans-serif;
     font-weight: 700;
     transition: font-size 0.25s ease;
-    letter-spacing: -3px;
+    letter-spacing: 1px;
     margin-bottom: 15px;
   }
   
